@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VISHNURAJ-MR
-- 👀 I’m interested in programming
+- 👀 Android Developer
 - 📫 Reach me @vishnuraj993@outlook.com
 
 <!---
